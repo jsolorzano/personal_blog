@@ -1,0 +1,9 @@
+Archivos modificados:
+
+-Nuevo método pruebas() en el archivo aplication/controller/Welcome.php
+
+-Nuevo archivo (vista) pruebas.php en aplication/views/
+
+-Agregada ruta base 'http://localhost/codeigniter_porto/' en aplication/config/config.php
+
+-Habilitado el helper 'url' en el archivo aplication/config/autoload.php para poder usar la función base_url()
